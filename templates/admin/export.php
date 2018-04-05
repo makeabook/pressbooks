@@ -145,6 +145,7 @@ do_action( 'pressbooks_top_of_export_page' );
 
 <div id="icon-pressbooks-export" class="icon32"></div>
 <h2><?php _e( 'Export', 'pressbooks' ); ?> &ldquo;<?php bloginfo( 'name' ); ?>&rdquo;</h2>
+<h2><?php printf('shalom eti and naama');?></h2>
 <p><?php printf( __( 'You can export multiple file formats by selecting your Export Format Options below. Pressbooks saves your last %s batches of exported files.', 'pressbooks' ), '5' );?></p>
 
 <div class="export-page">
